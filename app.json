@@ -7,7 +7,7 @@
         "telegram bot",
         "pyrogram"
     ],
-    "repository": "https://github.com/ALEX665E/NIKKU-MUSIC",
+    "repository": "https://github.com/ALEX665E/ARYAN",
     "success_url": "https://t.me/UPSC_SSC_TEAM",
     "env": {
         "API_ID": {
