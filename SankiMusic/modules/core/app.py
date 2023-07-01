@@ -47,9 +47,9 @@ class App(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("AdityaServer")
-                await self.one.join_chat("AdityaDiscus")
-                await self.one.join_chat("Sanki_World")
+                await self.one.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("MAHAKAL_KI_LADLI")
             except:
                 pass
             assistants.append(1)
@@ -79,9 +79,9 @@ class App(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("AdityaServer")
-                await self.one.join_chat("AdityaDiscus")
-                await self.one.join_chat("Sanki_World")
+                await self.two.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("MAHAKAL_KI_LADLI")
             except:
                 pass
             assistants.append(2)
@@ -111,9 +111,9 @@ class App(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("AdityaServer")
-                await self.one.join_chat("AdityaDiscus")
-                await self.one.join_chat("Sanki_World")
+                await self.three.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("MAHAKAL_KI_LADLI")
             except:
                 pass
             assistants.append(3)
@@ -143,9 +143,9 @@ class App(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("AdityaServer")
-                await self.one.join_chat("AdityaDiscus")
-                await self.one.join_chat("Sanki_World")
+                await self.four.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("MAHAKAL_KI_LADLI")
             except:
                 pass
             assistants.append(4)
@@ -175,9 +175,9 @@ class App(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("AdityaServer")
-                await self.one.join_chat("AdityaDiscus")
-                await self.one.join_chat("Sanki_World")
+                await self.five.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("UPSC_SSC_TEAM")
+                await self.one.join_chat("MAHAKAL_KI_LADLI")
             except:
                 pass
             assistants.append(5)
